@@ -1,6 +1,8 @@
-package br.com.lambari.ajf.estudo.workshopmongo.domain;
+package br.com.lambari.ajf.estudo.workshopmongo.dto;
 
 import java.io.Serializable;
+
+import br.com.lambari.ajf.estudo.workshopmongo.domain.User;
 
 
 
